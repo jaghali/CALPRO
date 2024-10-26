@@ -1,4 +1,4 @@
-import FoodListItem from '@/components/FoodListItem'; // Corrected import
+import FoodListItem from '@/components/FoodListItem';
 import { FontAwesome } from '@expo/vector-icons';
 import React, { useState } from 'react';
 import { Button, FlatList, ScrollView, StyleSheet, TextInput, View } from 'react-native';
